@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Digvijay Dhatinge</h1>
 
 <h3 align="center">
-MCA Student • Java Full Stack Developer • Spring Boot • React JS
+MCA Student • Java Full Stack Developer • Spring Boot • React JS • Artificial Intelligence Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+JS+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+JS+Developer;Artificial+Intelligence+Learner;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=digvijaydhatinge-cmd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/digvijaydhatinge-cmd?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/digvijaydhatinge-cmd?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
@@ -20,9 +19,9 @@ MCA Student • Java Full Stack Developer • Spring Boot • React JS
 
 - 🎓 MCA Student
 - 💻 Java Full Stack Developer
-- 🌱 Currently learning **Spring Boot, AWS & React**
-- 🛠 Building Full Stack Projects
-- 🚀 Passionate about Backend Development
+- 🌱 Currently learning **Spring Boot, React JS & Artificial Intelligence**
+- 🤖 Interested in AI & Machine Learning
+- 🚀 Building Full Stack Projects
 - 📍 India
 
 ---
@@ -30,7 +29,7 @@ MCA Student • Java Full Stack Developer • Spring Boot • React JS
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,html,css,js,bootstrap,mysql,mongodb,git,github,vscode,eclipse,idea,aws,firebase&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,html,css,js,bootstrap,mysql,mongodb,git,github,vscode,eclipse,idea&perline=8"/>
 </p>
 
 ---
@@ -68,14 +67,37 @@ MCA Student • Java Full Stack Developer • Spring Boot • React JS
 
 ---
 
+# 💻 Skill Progress
+
+```text
+Java                     ████████████████████ 90%
+Spring Boot              █████████████████░░░ 80%
+React JS                 ████████████████░░░░ 78%
+JavaScript               ████████████████░░░░ 78%
+HTML & CSS               ████████████████████ 95%
+MySQL                    █████████████████░░░ 82%
+MongoDB                  ███████████████░░░░░ 72%
+Artificial Intelligence  █████████████░░░░░░░ 68%
+```
+
+---
+
 # 📌 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚀 Java Full Stack | Spring Boot + React Projects |
+| 🚀 Project | 📄 Description |
+|------------|----------------|
+| 💻 Java Full Stack | Spring Boot + React JS Projects |
 | 🌐 Digital Civic Issues Reporting | Complaint Management System |
-| ☁️ AWS Learning | Cloud Practice Projects |
-| 🤖 AI Crop Detection | Smart Farming Project |
+| 🤖 Artificial Intelligence | AI & Machine Learning Projects |
+| 🌾 AI Crop Detection | Smart Farming Project |
+
+---
+
+# 💻 Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,mongodb,html,css,js,bootstrap,git,github,vscode,eclipse,idea"/>
+</p>
 
 ---
 
@@ -99,19 +121,12 @@ MCA Student • Java Full Stack Developer • Spring Boot • React JS
 
 ---
 
-# 💻 Languages & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,mongodb,html,css,js,bootstrap,git,github,linux,aws,firebase,vscode,eclipse,idea"/>
-</p>
-
----
-
 # ⚡ Fun Fact
 
-```text
-while(!success){
+```java
+while (!success) {
     learn();
+    code();
     build();
     improve();
 }
@@ -120,5 +135,5 @@ while(!success){
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 </p>
